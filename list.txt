@@ -5,5 +5,5 @@
 ! Expires:
 ! Homepage:
 !
-m.youtube.com/shorts/*
-youtube.com/shorts/*
+https://m.youtube.com/shorts/*
+https://youtube.com/shorts/*
