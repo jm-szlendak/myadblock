@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Version:
+! Title: CustomList
+! Last modified:
+! Expires:
+! Homepage:
+!
+m.youtube.com/shorts/*
+youtube.com/shorts/*
